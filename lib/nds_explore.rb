@@ -9,7 +9,8 @@ def pretty_print_nds(nds)
 end
 
 def print_first_directors_movie_titles
-  i = 0
-  while i < nds.length do
+  row_index = 0
+  while row_index < nds.length do
+    
     
 end
