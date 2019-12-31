@@ -13,7 +13,7 @@ end
 
 def print_first_directors_movie_titles
   i = 0
-  while i < nds.length do
+  while i < directors_database[0][:movies].length do
     
     
 end
